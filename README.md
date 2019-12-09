@@ -6,4 +6,4 @@ kiss_algorithm using the intuitve way to explain the complex algorithm. It make 
 
 | problem |                                   |                              | video links                             |
 | ------- | --------------------------------- | ---------------------------- | --------------------------------------- |
-| Two sum | ![two sum](./gif/twoSum_intr.png) | ![two sum](./gif/twoSum.gif) | [youtube](https://youtu.be/wS2odZJjgs4) |
+| Two sum | ![two sum](./gif/twoSum_intr.png) | ![two sum](./gif/twoSum.gif) | [youtube](https://youtu.be/iz7pdSbjM4o) |
